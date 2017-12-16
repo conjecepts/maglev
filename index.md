@@ -7,17 +7,9 @@ The aim of the project is to manufacture a simple, efficient and cost effective 
 
 ## CONTENTS
 
-- PROJECT DETAILS
-  - LITERATURE SURVEY
-  - HISTORY
-  - PROJECT OBJECTIVE
-  - PROJECT DESIGN
-  - WORKING
-  - FUTURE SCOPES
-  - CONCLUSION
-  
- - DOCUMENTS
- - WORK PROGRESS
+- [**PROJECT DETAILS**](https://conjecepts.github.io/details)
+- [**DOCUMENTS**](https://conjecepts.github.io/documents)
+- [**WORK PROGRESS**](https://conjecepts.github.io/progress)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
